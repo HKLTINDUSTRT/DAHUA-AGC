@@ -1,5 +1,5 @@
 # AGC Project
- This project covers Blockchain Technology, IoT Applications and Big Data Development. The open source code update management is maintained by HK LT INDUSTRY LIMITED.
+The project is open source code which written by HK LT INDUSTRY LIMITED, involving Blockchain Technology, IOT application and big data development. The update management of open source code is maintained by HK LT INDUSTRY LIMITED.
 
 # Development Process
 2017/11/21 Codes testing, More codes continues to open source;
