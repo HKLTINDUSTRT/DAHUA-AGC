@@ -9,5 +9,5 @@
 # License
 Bitcoin Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
 
-#Contact
+# Contact
 HK LT INDUSTRY LIMITED（香港龍騰實業有限公司）
